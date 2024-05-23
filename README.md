@@ -7,7 +7,7 @@ Sample Swift 5 application utilizing the Combine framework and MVVM, to fetch an
 - Run and build.
 
 ## NOTICE
-### You will need to provide your  [CoinMarketCap APIKey](https://pro.coinmarketcap.com/signup/) and replace the value [here](https://github.com/megaganjotsingh/CryptoAssetTracker/blob/95b0567d3b7f7ea3abeb15db9fa58b69d04e10d3/CryptoAssetTracker/Util/Constants.swift#L10)
+### You will need to provide your  [CoinMarketCap APIKey](https://pro.coinmarketcap.com/signup/) and replace the value [here](https://github.com/megaganjotsingh/CryptoAssetTracker/blob/3222ee7fecce106fa7a5c4fa0c5870029441f80e/CryptoAssetTracker/Util/Constants.swift#L10)
 
 
 ### Screenshots
